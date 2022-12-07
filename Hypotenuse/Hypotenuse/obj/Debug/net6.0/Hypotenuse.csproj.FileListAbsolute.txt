@@ -1,0 +1,15 @@
+C:\Asoftware\C#\Hypotenuse\Hypotenuse\bin\Debug\net6.0\Hypotenuse.exe
+C:\Asoftware\C#\Hypotenuse\Hypotenuse\bin\Debug\net6.0\Hypotenuse.deps.json
+C:\Asoftware\C#\Hypotenuse\Hypotenuse\bin\Debug\net6.0\Hypotenuse.runtimeconfig.json
+C:\Asoftware\C#\Hypotenuse\Hypotenuse\bin\Debug\net6.0\Hypotenuse.dll
+C:\Asoftware\C#\Hypotenuse\Hypotenuse\bin\Debug\net6.0\Hypotenuse.pdb
+C:\Asoftware\C#\Hypotenuse\Hypotenuse\obj\Debug\net6.0\Hypotenuse.csproj.AssemblyReference.cache
+C:\Asoftware\C#\Hypotenuse\Hypotenuse\obj\Debug\net6.0\Hypotenuse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asoftware\C#\Hypotenuse\Hypotenuse\obj\Debug\net6.0\Hypotenuse.AssemblyInfoInputs.cache
+C:\Asoftware\C#\Hypotenuse\Hypotenuse\obj\Debug\net6.0\Hypotenuse.AssemblyInfo.cs
+C:\Asoftware\C#\Hypotenuse\Hypotenuse\obj\Debug\net6.0\Hypotenuse.csproj.CoreCompileInputs.cache
+C:\Asoftware\C#\Hypotenuse\Hypotenuse\obj\Debug\net6.0\Hypotenuse.dll
+C:\Asoftware\C#\Hypotenuse\Hypotenuse\obj\Debug\net6.0\refint\Hypotenuse.dll
+C:\Asoftware\C#\Hypotenuse\Hypotenuse\obj\Debug\net6.0\Hypotenuse.pdb
+C:\Asoftware\C#\Hypotenuse\Hypotenuse\obj\Debug\net6.0\Hypotenuse.genruntimeconfig.cache
+C:\Asoftware\C#\Hypotenuse\Hypotenuse\obj\Debug\net6.0\ref\Hypotenuse.dll

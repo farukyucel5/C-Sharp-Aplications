@@ -1,0 +1,15 @@
+C:\Asoftware\C#\ConsoleApp4Constants\ConsoleApp4Constants\bin\Debug\net6.0\ConsoleApp4Constants.exe
+C:\Asoftware\C#\ConsoleApp4Constants\ConsoleApp4Constants\bin\Debug\net6.0\ConsoleApp4Constants.deps.json
+C:\Asoftware\C#\ConsoleApp4Constants\ConsoleApp4Constants\bin\Debug\net6.0\ConsoleApp4Constants.runtimeconfig.json
+C:\Asoftware\C#\ConsoleApp4Constants\ConsoleApp4Constants\bin\Debug\net6.0\ConsoleApp4Constants.dll
+C:\Asoftware\C#\ConsoleApp4Constants\ConsoleApp4Constants\bin\Debug\net6.0\ConsoleApp4Constants.pdb
+C:\Asoftware\C#\ConsoleApp4Constants\ConsoleApp4Constants\obj\Debug\net6.0\ConsoleApp4Constants.csproj.AssemblyReference.cache
+C:\Asoftware\C#\ConsoleApp4Constants\ConsoleApp4Constants\obj\Debug\net6.0\ConsoleApp4Constants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asoftware\C#\ConsoleApp4Constants\ConsoleApp4Constants\obj\Debug\net6.0\ConsoleApp4Constants.AssemblyInfoInputs.cache
+C:\Asoftware\C#\ConsoleApp4Constants\ConsoleApp4Constants\obj\Debug\net6.0\ConsoleApp4Constants.AssemblyInfo.cs
+C:\Asoftware\C#\ConsoleApp4Constants\ConsoleApp4Constants\obj\Debug\net6.0\ConsoleApp4Constants.csproj.CoreCompileInputs.cache
+C:\Asoftware\C#\ConsoleApp4Constants\ConsoleApp4Constants\obj\Debug\net6.0\ConsoleApp4Constants.dll
+C:\Asoftware\C#\ConsoleApp4Constants\ConsoleApp4Constants\obj\Debug\net6.0\refint\ConsoleApp4Constants.dll
+C:\Asoftware\C#\ConsoleApp4Constants\ConsoleApp4Constants\obj\Debug\net6.0\ConsoleApp4Constants.pdb
+C:\Asoftware\C#\ConsoleApp4Constants\ConsoleApp4Constants\obj\Debug\net6.0\ConsoleApp4Constants.genruntimeconfig.cache
+C:\Asoftware\C#\ConsoleApp4Constants\ConsoleApp4Constants\obj\Debug\net6.0\ref\ConsoleApp4Constants.dll

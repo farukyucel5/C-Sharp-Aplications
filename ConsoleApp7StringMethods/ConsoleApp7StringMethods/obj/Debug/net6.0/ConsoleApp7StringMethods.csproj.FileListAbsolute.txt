@@ -1,0 +1,15 @@
+C:\Asoftware\C#\ConsoleApp7StringMethods\ConsoleApp7StringMethods\bin\Debug\net6.0\ConsoleApp7StringMethods.exe
+C:\Asoftware\C#\ConsoleApp7StringMethods\ConsoleApp7StringMethods\bin\Debug\net6.0\ConsoleApp7StringMethods.deps.json
+C:\Asoftware\C#\ConsoleApp7StringMethods\ConsoleApp7StringMethods\bin\Debug\net6.0\ConsoleApp7StringMethods.runtimeconfig.json
+C:\Asoftware\C#\ConsoleApp7StringMethods\ConsoleApp7StringMethods\bin\Debug\net6.0\ConsoleApp7StringMethods.dll
+C:\Asoftware\C#\ConsoleApp7StringMethods\ConsoleApp7StringMethods\bin\Debug\net6.0\ConsoleApp7StringMethods.pdb
+C:\Asoftware\C#\ConsoleApp7StringMethods\ConsoleApp7StringMethods\obj\Debug\net6.0\ConsoleApp7StringMethods.csproj.AssemblyReference.cache
+C:\Asoftware\C#\ConsoleApp7StringMethods\ConsoleApp7StringMethods\obj\Debug\net6.0\ConsoleApp7StringMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asoftware\C#\ConsoleApp7StringMethods\ConsoleApp7StringMethods\obj\Debug\net6.0\ConsoleApp7StringMethods.AssemblyInfoInputs.cache
+C:\Asoftware\C#\ConsoleApp7StringMethods\ConsoleApp7StringMethods\obj\Debug\net6.0\ConsoleApp7StringMethods.AssemblyInfo.cs
+C:\Asoftware\C#\ConsoleApp7StringMethods\ConsoleApp7StringMethods\obj\Debug\net6.0\ConsoleApp7StringMethods.csproj.CoreCompileInputs.cache
+C:\Asoftware\C#\ConsoleApp7StringMethods\ConsoleApp7StringMethods\obj\Debug\net6.0\ConsoleApp7StringMethods.dll
+C:\Asoftware\C#\ConsoleApp7StringMethods\ConsoleApp7StringMethods\obj\Debug\net6.0\refint\ConsoleApp7StringMethods.dll
+C:\Asoftware\C#\ConsoleApp7StringMethods\ConsoleApp7StringMethods\obj\Debug\net6.0\ConsoleApp7StringMethods.pdb
+C:\Asoftware\C#\ConsoleApp7StringMethods\ConsoleApp7StringMethods\obj\Debug\net6.0\ConsoleApp7StringMethods.genruntimeconfig.cache
+C:\Asoftware\C#\ConsoleApp7StringMethods\ConsoleApp7StringMethods\obj\Debug\net6.0\ref\ConsoleApp7StringMethods.dll

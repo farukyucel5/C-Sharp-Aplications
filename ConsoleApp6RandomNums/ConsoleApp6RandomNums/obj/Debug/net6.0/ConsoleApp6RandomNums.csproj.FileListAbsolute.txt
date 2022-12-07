@@ -1,0 +1,15 @@
+C:\Asoftware\C#\ConsoleApp6RandomNums\ConsoleApp6RandomNums\bin\Debug\net6.0\ConsoleApp6RandomNums.exe
+C:\Asoftware\C#\ConsoleApp6RandomNums\ConsoleApp6RandomNums\bin\Debug\net6.0\ConsoleApp6RandomNums.deps.json
+C:\Asoftware\C#\ConsoleApp6RandomNums\ConsoleApp6RandomNums\bin\Debug\net6.0\ConsoleApp6RandomNums.runtimeconfig.json
+C:\Asoftware\C#\ConsoleApp6RandomNums\ConsoleApp6RandomNums\bin\Debug\net6.0\ConsoleApp6RandomNums.dll
+C:\Asoftware\C#\ConsoleApp6RandomNums\ConsoleApp6RandomNums\bin\Debug\net6.0\ConsoleApp6RandomNums.pdb
+C:\Asoftware\C#\ConsoleApp6RandomNums\ConsoleApp6RandomNums\obj\Debug\net6.0\ConsoleApp6RandomNums.csproj.AssemblyReference.cache
+C:\Asoftware\C#\ConsoleApp6RandomNums\ConsoleApp6RandomNums\obj\Debug\net6.0\ConsoleApp6RandomNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asoftware\C#\ConsoleApp6RandomNums\ConsoleApp6RandomNums\obj\Debug\net6.0\ConsoleApp6RandomNums.AssemblyInfoInputs.cache
+C:\Asoftware\C#\ConsoleApp6RandomNums\ConsoleApp6RandomNums\obj\Debug\net6.0\ConsoleApp6RandomNums.AssemblyInfo.cs
+C:\Asoftware\C#\ConsoleApp6RandomNums\ConsoleApp6RandomNums\obj\Debug\net6.0\ConsoleApp6RandomNums.csproj.CoreCompileInputs.cache
+C:\Asoftware\C#\ConsoleApp6RandomNums\ConsoleApp6RandomNums\obj\Debug\net6.0\ConsoleApp6RandomNums.dll
+C:\Asoftware\C#\ConsoleApp6RandomNums\ConsoleApp6RandomNums\obj\Debug\net6.0\refint\ConsoleApp6RandomNums.dll
+C:\Asoftware\C#\ConsoleApp6RandomNums\ConsoleApp6RandomNums\obj\Debug\net6.0\ConsoleApp6RandomNums.pdb
+C:\Asoftware\C#\ConsoleApp6RandomNums\ConsoleApp6RandomNums\obj\Debug\net6.0\ConsoleApp6RandomNums.genruntimeconfig.cache
+C:\Asoftware\C#\ConsoleApp6RandomNums\ConsoleApp6RandomNums\obj\Debug\net6.0\ref\ConsoleApp6RandomNums.dll

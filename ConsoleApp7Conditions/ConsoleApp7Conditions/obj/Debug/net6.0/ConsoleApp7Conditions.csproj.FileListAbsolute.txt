@@ -1,0 +1,15 @@
+C:\Asoftware\C#\ConsoleApp7Conditions\ConsoleApp7Conditions\bin\Debug\net6.0\ConsoleApp7Conditions.exe
+C:\Asoftware\C#\ConsoleApp7Conditions\ConsoleApp7Conditions\bin\Debug\net6.0\ConsoleApp7Conditions.deps.json
+C:\Asoftware\C#\ConsoleApp7Conditions\ConsoleApp7Conditions\bin\Debug\net6.0\ConsoleApp7Conditions.runtimeconfig.json
+C:\Asoftware\C#\ConsoleApp7Conditions\ConsoleApp7Conditions\bin\Debug\net6.0\ConsoleApp7Conditions.dll
+C:\Asoftware\C#\ConsoleApp7Conditions\ConsoleApp7Conditions\bin\Debug\net6.0\ConsoleApp7Conditions.pdb
+C:\Asoftware\C#\ConsoleApp7Conditions\ConsoleApp7Conditions\obj\Debug\net6.0\ConsoleApp7Conditions.csproj.AssemblyReference.cache
+C:\Asoftware\C#\ConsoleApp7Conditions\ConsoleApp7Conditions\obj\Debug\net6.0\ConsoleApp7Conditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asoftware\C#\ConsoleApp7Conditions\ConsoleApp7Conditions\obj\Debug\net6.0\ConsoleApp7Conditions.AssemblyInfoInputs.cache
+C:\Asoftware\C#\ConsoleApp7Conditions\ConsoleApp7Conditions\obj\Debug\net6.0\ConsoleApp7Conditions.AssemblyInfo.cs
+C:\Asoftware\C#\ConsoleApp7Conditions\ConsoleApp7Conditions\obj\Debug\net6.0\ConsoleApp7Conditions.csproj.CoreCompileInputs.cache
+C:\Asoftware\C#\ConsoleApp7Conditions\ConsoleApp7Conditions\obj\Debug\net6.0\ConsoleApp7Conditions.dll
+C:\Asoftware\C#\ConsoleApp7Conditions\ConsoleApp7Conditions\obj\Debug\net6.0\refint\ConsoleApp7Conditions.dll
+C:\Asoftware\C#\ConsoleApp7Conditions\ConsoleApp7Conditions\obj\Debug\net6.0\ConsoleApp7Conditions.pdb
+C:\Asoftware\C#\ConsoleApp7Conditions\ConsoleApp7Conditions\obj\Debug\net6.0\ConsoleApp7Conditions.genruntimeconfig.cache
+C:\Asoftware\C#\ConsoleApp7Conditions\ConsoleApp7Conditions\obj\Debug\net6.0\ref\ConsoleApp7Conditions.dll

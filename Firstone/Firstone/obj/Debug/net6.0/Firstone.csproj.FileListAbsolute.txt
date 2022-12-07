@@ -1,0 +1,15 @@
+C:\Asoftware\C#\Firstone\Firstone\bin\Debug\net6.0\Firstone.exe
+C:\Asoftware\C#\Firstone\Firstone\bin\Debug\net6.0\Firstone.deps.json
+C:\Asoftware\C#\Firstone\Firstone\bin\Debug\net6.0\Firstone.runtimeconfig.json
+C:\Asoftware\C#\Firstone\Firstone\bin\Debug\net6.0\Firstone.dll
+C:\Asoftware\C#\Firstone\Firstone\bin\Debug\net6.0\Firstone.pdb
+C:\Asoftware\C#\Firstone\Firstone\obj\Debug\net6.0\Firstone.csproj.AssemblyReference.cache
+C:\Asoftware\C#\Firstone\Firstone\obj\Debug\net6.0\Firstone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asoftware\C#\Firstone\Firstone\obj\Debug\net6.0\Firstone.AssemblyInfoInputs.cache
+C:\Asoftware\C#\Firstone\Firstone\obj\Debug\net6.0\Firstone.AssemblyInfo.cs
+C:\Asoftware\C#\Firstone\Firstone\obj\Debug\net6.0\Firstone.csproj.CoreCompileInputs.cache
+C:\Asoftware\C#\Firstone\Firstone\obj\Debug\net6.0\Firstone.dll
+C:\Asoftware\C#\Firstone\Firstone\obj\Debug\net6.0\refint\Firstone.dll
+C:\Asoftware\C#\Firstone\Firstone\obj\Debug\net6.0\Firstone.pdb
+C:\Asoftware\C#\Firstone\Firstone\obj\Debug\net6.0\Firstone.genruntimeconfig.cache
+C:\Asoftware\C#\Firstone\Firstone\obj\Debug\net6.0\ref\Firstone.dll

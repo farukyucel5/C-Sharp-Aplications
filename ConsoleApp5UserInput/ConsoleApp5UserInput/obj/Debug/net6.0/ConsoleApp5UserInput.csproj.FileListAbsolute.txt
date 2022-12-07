@@ -1,0 +1,15 @@
+C:\Asoftware\C#\ConsoleApp5UserInput\ConsoleApp5UserInput\bin\Debug\net6.0\ConsoleApp5UserInput.exe
+C:\Asoftware\C#\ConsoleApp5UserInput\ConsoleApp5UserInput\bin\Debug\net6.0\ConsoleApp5UserInput.deps.json
+C:\Asoftware\C#\ConsoleApp5UserInput\ConsoleApp5UserInput\bin\Debug\net6.0\ConsoleApp5UserInput.runtimeconfig.json
+C:\Asoftware\C#\ConsoleApp5UserInput\ConsoleApp5UserInput\bin\Debug\net6.0\ConsoleApp5UserInput.dll
+C:\Asoftware\C#\ConsoleApp5UserInput\ConsoleApp5UserInput\bin\Debug\net6.0\ConsoleApp5UserInput.pdb
+C:\Asoftware\C#\ConsoleApp5UserInput\ConsoleApp5UserInput\obj\Debug\net6.0\ConsoleApp5UserInput.csproj.AssemblyReference.cache
+C:\Asoftware\C#\ConsoleApp5UserInput\ConsoleApp5UserInput\obj\Debug\net6.0\ConsoleApp5UserInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asoftware\C#\ConsoleApp5UserInput\ConsoleApp5UserInput\obj\Debug\net6.0\ConsoleApp5UserInput.AssemblyInfoInputs.cache
+C:\Asoftware\C#\ConsoleApp5UserInput\ConsoleApp5UserInput\obj\Debug\net6.0\ConsoleApp5UserInput.AssemblyInfo.cs
+C:\Asoftware\C#\ConsoleApp5UserInput\ConsoleApp5UserInput\obj\Debug\net6.0\ConsoleApp5UserInput.csproj.CoreCompileInputs.cache
+C:\Asoftware\C#\ConsoleApp5UserInput\ConsoleApp5UserInput\obj\Debug\net6.0\ConsoleApp5UserInput.dll
+C:\Asoftware\C#\ConsoleApp5UserInput\ConsoleApp5UserInput\obj\Debug\net6.0\refint\ConsoleApp5UserInput.dll
+C:\Asoftware\C#\ConsoleApp5UserInput\ConsoleApp5UserInput\obj\Debug\net6.0\ConsoleApp5UserInput.pdb
+C:\Asoftware\C#\ConsoleApp5UserInput\ConsoleApp5UserInput\obj\Debug\net6.0\ConsoleApp5UserInput.genruntimeconfig.cache
+C:\Asoftware\C#\ConsoleApp5UserInput\ConsoleApp5UserInput\obj\Debug\net6.0\ref\ConsoleApp5UserInput.dll

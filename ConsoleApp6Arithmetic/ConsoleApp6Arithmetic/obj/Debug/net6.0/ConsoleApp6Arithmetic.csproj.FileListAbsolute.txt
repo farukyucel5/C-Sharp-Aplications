@@ -1,0 +1,15 @@
+C:\Asoftware\C#\ConsoleApp6Arithmetic\ConsoleApp6Arithmetic\bin\Debug\net6.0\ConsoleApp6Arithmetic.exe
+C:\Asoftware\C#\ConsoleApp6Arithmetic\ConsoleApp6Arithmetic\bin\Debug\net6.0\ConsoleApp6Arithmetic.deps.json
+C:\Asoftware\C#\ConsoleApp6Arithmetic\ConsoleApp6Arithmetic\bin\Debug\net6.0\ConsoleApp6Arithmetic.runtimeconfig.json
+C:\Asoftware\C#\ConsoleApp6Arithmetic\ConsoleApp6Arithmetic\bin\Debug\net6.0\ConsoleApp6Arithmetic.dll
+C:\Asoftware\C#\ConsoleApp6Arithmetic\ConsoleApp6Arithmetic\bin\Debug\net6.0\ConsoleApp6Arithmetic.pdb
+C:\Asoftware\C#\ConsoleApp6Arithmetic\ConsoleApp6Arithmetic\obj\Debug\net6.0\ConsoleApp6Arithmetic.csproj.AssemblyReference.cache
+C:\Asoftware\C#\ConsoleApp6Arithmetic\ConsoleApp6Arithmetic\obj\Debug\net6.0\ConsoleApp6Arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asoftware\C#\ConsoleApp6Arithmetic\ConsoleApp6Arithmetic\obj\Debug\net6.0\ConsoleApp6Arithmetic.AssemblyInfoInputs.cache
+C:\Asoftware\C#\ConsoleApp6Arithmetic\ConsoleApp6Arithmetic\obj\Debug\net6.0\ConsoleApp6Arithmetic.AssemblyInfo.cs
+C:\Asoftware\C#\ConsoleApp6Arithmetic\ConsoleApp6Arithmetic\obj\Debug\net6.0\ConsoleApp6Arithmetic.csproj.CoreCompileInputs.cache
+C:\Asoftware\C#\ConsoleApp6Arithmetic\ConsoleApp6Arithmetic\obj\Debug\net6.0\ConsoleApp6Arithmetic.dll
+C:\Asoftware\C#\ConsoleApp6Arithmetic\ConsoleApp6Arithmetic\obj\Debug\net6.0\refint\ConsoleApp6Arithmetic.dll
+C:\Asoftware\C#\ConsoleApp6Arithmetic\ConsoleApp6Arithmetic\obj\Debug\net6.0\ConsoleApp6Arithmetic.pdb
+C:\Asoftware\C#\ConsoleApp6Arithmetic\ConsoleApp6Arithmetic\obj\Debug\net6.0\ConsoleApp6Arithmetic.genruntimeconfig.cache
+C:\Asoftware\C#\ConsoleApp6Arithmetic\ConsoleApp6Arithmetic\obj\Debug\net6.0\ref\ConsoleApp6Arithmetic.dll
