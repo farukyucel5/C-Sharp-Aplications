@@ -1,0 +1,15 @@
+C:\Asoftware\C#\Csharp_switch_case\Csharp_switch_case\bin\Debug\net6.0\Csharp_switch_case.exe
+C:\Asoftware\C#\Csharp_switch_case\Csharp_switch_case\bin\Debug\net6.0\Csharp_switch_case.deps.json
+C:\Asoftware\C#\Csharp_switch_case\Csharp_switch_case\bin\Debug\net6.0\Csharp_switch_case.runtimeconfig.json
+C:\Asoftware\C#\Csharp_switch_case\Csharp_switch_case\bin\Debug\net6.0\Csharp_switch_case.dll
+C:\Asoftware\C#\Csharp_switch_case\Csharp_switch_case\bin\Debug\net6.0\Csharp_switch_case.pdb
+C:\Asoftware\C#\Csharp_switch_case\Csharp_switch_case\obj\Debug\net6.0\Csharp_switch_case.csproj.AssemblyReference.cache
+C:\Asoftware\C#\Csharp_switch_case\Csharp_switch_case\obj\Debug\net6.0\Csharp_switch_case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asoftware\C#\Csharp_switch_case\Csharp_switch_case\obj\Debug\net6.0\Csharp_switch_case.AssemblyInfoInputs.cache
+C:\Asoftware\C#\Csharp_switch_case\Csharp_switch_case\obj\Debug\net6.0\Csharp_switch_case.AssemblyInfo.cs
+C:\Asoftware\C#\Csharp_switch_case\Csharp_switch_case\obj\Debug\net6.0\Csharp_switch_case.csproj.CoreCompileInputs.cache
+C:\Asoftware\C#\Csharp_switch_case\Csharp_switch_case\obj\Debug\net6.0\Csharp_switch_case.dll
+C:\Asoftware\C#\Csharp_switch_case\Csharp_switch_case\obj\Debug\net6.0\refint\Csharp_switch_case.dll
+C:\Asoftware\C#\Csharp_switch_case\Csharp_switch_case\obj\Debug\net6.0\Csharp_switch_case.pdb
+C:\Asoftware\C#\Csharp_switch_case\Csharp_switch_case\obj\Debug\net6.0\Csharp_switch_case.genruntimeconfig.cache
+C:\Asoftware\C#\Csharp_switch_case\Csharp_switch_case\obj\Debug\net6.0\ref\Csharp_switch_case.dll

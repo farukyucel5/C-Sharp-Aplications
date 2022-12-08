@@ -1,0 +1,15 @@
+C:\Asoftware\C#\CsharpNumberGuessingGame\CsharpNumberGuessingGame\bin\Debug\net6.0\CsharpNumberGuessingGame.exe
+C:\Asoftware\C#\CsharpNumberGuessingGame\CsharpNumberGuessingGame\bin\Debug\net6.0\CsharpNumberGuessingGame.deps.json
+C:\Asoftware\C#\CsharpNumberGuessingGame\CsharpNumberGuessingGame\bin\Debug\net6.0\CsharpNumberGuessingGame.runtimeconfig.json
+C:\Asoftware\C#\CsharpNumberGuessingGame\CsharpNumberGuessingGame\bin\Debug\net6.0\CsharpNumberGuessingGame.dll
+C:\Asoftware\C#\CsharpNumberGuessingGame\CsharpNumberGuessingGame\bin\Debug\net6.0\CsharpNumberGuessingGame.pdb
+C:\Asoftware\C#\CsharpNumberGuessingGame\CsharpNumberGuessingGame\obj\Debug\net6.0\CsharpNumberGuessingGame.csproj.AssemblyReference.cache
+C:\Asoftware\C#\CsharpNumberGuessingGame\CsharpNumberGuessingGame\obj\Debug\net6.0\CsharpNumberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asoftware\C#\CsharpNumberGuessingGame\CsharpNumberGuessingGame\obj\Debug\net6.0\CsharpNumberGuessingGame.AssemblyInfoInputs.cache
+C:\Asoftware\C#\CsharpNumberGuessingGame\CsharpNumberGuessingGame\obj\Debug\net6.0\CsharpNumberGuessingGame.AssemblyInfo.cs
+C:\Asoftware\C#\CsharpNumberGuessingGame\CsharpNumberGuessingGame\obj\Debug\net6.0\CsharpNumberGuessingGame.csproj.CoreCompileInputs.cache
+C:\Asoftware\C#\CsharpNumberGuessingGame\CsharpNumberGuessingGame\obj\Debug\net6.0\CsharpNumberGuessingGame.dll
+C:\Asoftware\C#\CsharpNumberGuessingGame\CsharpNumberGuessingGame\obj\Debug\net6.0\refint\CsharpNumberGuessingGame.dll
+C:\Asoftware\C#\CsharpNumberGuessingGame\CsharpNumberGuessingGame\obj\Debug\net6.0\CsharpNumberGuessingGame.pdb
+C:\Asoftware\C#\CsharpNumberGuessingGame\CsharpNumberGuessingGame\obj\Debug\net6.0\CsharpNumberGuessingGame.genruntimeconfig.cache
+C:\Asoftware\C#\CsharpNumberGuessingGame\CsharpNumberGuessingGame\obj\Debug\net6.0\ref\CsharpNumberGuessingGame.dll

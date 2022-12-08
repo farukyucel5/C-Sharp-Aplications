@@ -1,0 +1,15 @@
+C:\Asoftware\C#\CsharpLoops\CsharpLoops\bin\Debug\net6.0\CsharpLoops.exe
+C:\Asoftware\C#\CsharpLoops\CsharpLoops\bin\Debug\net6.0\CsharpLoops.deps.json
+C:\Asoftware\C#\CsharpLoops\CsharpLoops\bin\Debug\net6.0\CsharpLoops.runtimeconfig.json
+C:\Asoftware\C#\CsharpLoops\CsharpLoops\bin\Debug\net6.0\CsharpLoops.dll
+C:\Asoftware\C#\CsharpLoops\CsharpLoops\bin\Debug\net6.0\CsharpLoops.pdb
+C:\Asoftware\C#\CsharpLoops\CsharpLoops\obj\Debug\net6.0\CsharpLoops.csproj.AssemblyReference.cache
+C:\Asoftware\C#\CsharpLoops\CsharpLoops\obj\Debug\net6.0\CsharpLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asoftware\C#\CsharpLoops\CsharpLoops\obj\Debug\net6.0\CsharpLoops.AssemblyInfoInputs.cache
+C:\Asoftware\C#\CsharpLoops\CsharpLoops\obj\Debug\net6.0\CsharpLoops.AssemblyInfo.cs
+C:\Asoftware\C#\CsharpLoops\CsharpLoops\obj\Debug\net6.0\CsharpLoops.csproj.CoreCompileInputs.cache
+C:\Asoftware\C#\CsharpLoops\CsharpLoops\obj\Debug\net6.0\CsharpLoops.dll
+C:\Asoftware\C#\CsharpLoops\CsharpLoops\obj\Debug\net6.0\refint\CsharpLoops.dll
+C:\Asoftware\C#\CsharpLoops\CsharpLoops\obj\Debug\net6.0\CsharpLoops.pdb
+C:\Asoftware\C#\CsharpLoops\CsharpLoops\obj\Debug\net6.0\CsharpLoops.genruntimeconfig.cache
+C:\Asoftware\C#\CsharpLoops\CsharpLoops\obj\Debug\net6.0\ref\CsharpLoops.dll
