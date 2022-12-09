@@ -1,0 +1,15 @@
+C:\Asoftware\C#\Arrays_foreach\Arrays_foreach\bin\Debug\net6.0\Arrays_foreach.exe
+C:\Asoftware\C#\Arrays_foreach\Arrays_foreach\bin\Debug\net6.0\Arrays_foreach.deps.json
+C:\Asoftware\C#\Arrays_foreach\Arrays_foreach\bin\Debug\net6.0\Arrays_foreach.runtimeconfig.json
+C:\Asoftware\C#\Arrays_foreach\Arrays_foreach\bin\Debug\net6.0\Arrays_foreach.dll
+C:\Asoftware\C#\Arrays_foreach\Arrays_foreach\bin\Debug\net6.0\Arrays_foreach.pdb
+C:\Asoftware\C#\Arrays_foreach\Arrays_foreach\obj\Debug\net6.0\Arrays_foreach.csproj.AssemblyReference.cache
+C:\Asoftware\C#\Arrays_foreach\Arrays_foreach\obj\Debug\net6.0\Arrays_foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asoftware\C#\Arrays_foreach\Arrays_foreach\obj\Debug\net6.0\Arrays_foreach.AssemblyInfoInputs.cache
+C:\Asoftware\C#\Arrays_foreach\Arrays_foreach\obj\Debug\net6.0\Arrays_foreach.AssemblyInfo.cs
+C:\Asoftware\C#\Arrays_foreach\Arrays_foreach\obj\Debug\net6.0\Arrays_foreach.csproj.CoreCompileInputs.cache
+C:\Asoftware\C#\Arrays_foreach\Arrays_foreach\obj\Debug\net6.0\Arrays_foreach.dll
+C:\Asoftware\C#\Arrays_foreach\Arrays_foreach\obj\Debug\net6.0\refint\Arrays_foreach.dll
+C:\Asoftware\C#\Arrays_foreach\Arrays_foreach\obj\Debug\net6.0\Arrays_foreach.pdb
+C:\Asoftware\C#\Arrays_foreach\Arrays_foreach\obj\Debug\net6.0\Arrays_foreach.genruntimeconfig.cache
+C:\Asoftware\C#\Arrays_foreach\Arrays_foreach\obj\Debug\net6.0\ref\Arrays_foreach.dll
