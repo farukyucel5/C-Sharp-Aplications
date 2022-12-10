@@ -1,0 +1,15 @@
+C:\Asoftware\C#\ExceptionHandling\Conditional_operator\bin\Debug\net6.0\Conditional_operator.exe
+C:\Asoftware\C#\ExceptionHandling\Conditional_operator\bin\Debug\net6.0\Conditional_operator.deps.json
+C:\Asoftware\C#\ExceptionHandling\Conditional_operator\bin\Debug\net6.0\Conditional_operator.runtimeconfig.json
+C:\Asoftware\C#\ExceptionHandling\Conditional_operator\bin\Debug\net6.0\Conditional_operator.dll
+C:\Asoftware\C#\ExceptionHandling\Conditional_operator\bin\Debug\net6.0\Conditional_operator.pdb
+C:\Asoftware\C#\ExceptionHandling\Conditional_operator\obj\Debug\net6.0\Conditional_operator.csproj.AssemblyReference.cache
+C:\Asoftware\C#\ExceptionHandling\Conditional_operator\obj\Debug\net6.0\Conditional_operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asoftware\C#\ExceptionHandling\Conditional_operator\obj\Debug\net6.0\Conditional_operator.AssemblyInfoInputs.cache
+C:\Asoftware\C#\ExceptionHandling\Conditional_operator\obj\Debug\net6.0\Conditional_operator.AssemblyInfo.cs
+C:\Asoftware\C#\ExceptionHandling\Conditional_operator\obj\Debug\net6.0\Conditional_operator.csproj.CoreCompileInputs.cache
+C:\Asoftware\C#\ExceptionHandling\Conditional_operator\obj\Debug\net6.0\Conditional_operator.dll
+C:\Asoftware\C#\ExceptionHandling\Conditional_operator\obj\Debug\net6.0\refint\Conditional_operator.dll
+C:\Asoftware\C#\ExceptionHandling\Conditional_operator\obj\Debug\net6.0\Conditional_operator.pdb
+C:\Asoftware\C#\ExceptionHandling\Conditional_operator\obj\Debug\net6.0\Conditional_operator.genruntimeconfig.cache
+C:\Asoftware\C#\ExceptionHandling\Conditional_operator\obj\Debug\net6.0\ref\Conditional_operator.dll

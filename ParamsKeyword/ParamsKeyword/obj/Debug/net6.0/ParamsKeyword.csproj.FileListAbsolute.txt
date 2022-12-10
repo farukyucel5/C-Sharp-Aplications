@@ -1,0 +1,15 @@
+C:\Asoftware\C#\ParamsKeyword\ParamsKeyword\bin\Debug\net6.0\ParamsKeyword.exe
+C:\Asoftware\C#\ParamsKeyword\ParamsKeyword\bin\Debug\net6.0\ParamsKeyword.deps.json
+C:\Asoftware\C#\ParamsKeyword\ParamsKeyword\bin\Debug\net6.0\ParamsKeyword.runtimeconfig.json
+C:\Asoftware\C#\ParamsKeyword\ParamsKeyword\bin\Debug\net6.0\ParamsKeyword.dll
+C:\Asoftware\C#\ParamsKeyword\ParamsKeyword\bin\Debug\net6.0\ParamsKeyword.pdb
+C:\Asoftware\C#\ParamsKeyword\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.csproj.AssemblyReference.cache
+C:\Asoftware\C#\ParamsKeyword\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asoftware\C#\ParamsKeyword\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.AssemblyInfoInputs.cache
+C:\Asoftware\C#\ParamsKeyword\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.AssemblyInfo.cs
+C:\Asoftware\C#\ParamsKeyword\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.csproj.CoreCompileInputs.cache
+C:\Asoftware\C#\ParamsKeyword\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.dll
+C:\Asoftware\C#\ParamsKeyword\ParamsKeyword\obj\Debug\net6.0\refint\ParamsKeyword.dll
+C:\Asoftware\C#\ParamsKeyword\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.pdb
+C:\Asoftware\C#\ParamsKeyword\ParamsKeyword\obj\Debug\net6.0\ParamsKeyword.genruntimeconfig.cache
+C:\Asoftware\C#\ParamsKeyword\ParamsKeyword\obj\Debug\net6.0\ref\ParamsKeyword.dll

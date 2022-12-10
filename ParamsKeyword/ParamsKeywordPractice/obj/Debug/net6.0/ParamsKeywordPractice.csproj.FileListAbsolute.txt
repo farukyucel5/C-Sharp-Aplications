@@ -1,0 +1,15 @@
+C:\Asoftware\C#\ParamsKeyword\ParamsKeywordPractice\bin\Debug\net6.0\ParamsKeywordPractice.exe
+C:\Asoftware\C#\ParamsKeyword\ParamsKeywordPractice\bin\Debug\net6.0\ParamsKeywordPractice.deps.json
+C:\Asoftware\C#\ParamsKeyword\ParamsKeywordPractice\bin\Debug\net6.0\ParamsKeywordPractice.runtimeconfig.json
+C:\Asoftware\C#\ParamsKeyword\ParamsKeywordPractice\bin\Debug\net6.0\ParamsKeywordPractice.dll
+C:\Asoftware\C#\ParamsKeyword\ParamsKeywordPractice\bin\Debug\net6.0\ParamsKeywordPractice.pdb
+C:\Asoftware\C#\ParamsKeyword\ParamsKeywordPractice\obj\Debug\net6.0\ParamsKeywordPractice.csproj.AssemblyReference.cache
+C:\Asoftware\C#\ParamsKeyword\ParamsKeywordPractice\obj\Debug\net6.0\ParamsKeywordPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asoftware\C#\ParamsKeyword\ParamsKeywordPractice\obj\Debug\net6.0\ParamsKeywordPractice.AssemblyInfoInputs.cache
+C:\Asoftware\C#\ParamsKeyword\ParamsKeywordPractice\obj\Debug\net6.0\ParamsKeywordPractice.AssemblyInfo.cs
+C:\Asoftware\C#\ParamsKeyword\ParamsKeywordPractice\obj\Debug\net6.0\ParamsKeywordPractice.csproj.CoreCompileInputs.cache
+C:\Asoftware\C#\ParamsKeyword\ParamsKeywordPractice\obj\Debug\net6.0\ParamsKeywordPractice.dll
+C:\Asoftware\C#\ParamsKeyword\ParamsKeywordPractice\obj\Debug\net6.0\refint\ParamsKeywordPractice.dll
+C:\Asoftware\C#\ParamsKeyword\ParamsKeywordPractice\obj\Debug\net6.0\ParamsKeywordPractice.pdb
+C:\Asoftware\C#\ParamsKeyword\ParamsKeywordPractice\obj\Debug\net6.0\ParamsKeywordPractice.genruntimeconfig.cache
+C:\Asoftware\C#\ParamsKeyword\ParamsKeywordPractice\obj\Debug\net6.0\ref\ParamsKeywordPractice.dll

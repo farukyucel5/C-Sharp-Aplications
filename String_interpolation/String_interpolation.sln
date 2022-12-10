@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String_interpolation", "String_interpolation\String_interpolation.csproj", "{BBF286BB-70A3-4F5C-8E14-2B72C7E0FFF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multidimentional_arrays", "Multidimentional_arrays\Multidimentional_arrays.csproj", "{8C89F788-9993-46CD-A259-F01BA1C9DACA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBF286BB-70A3-4F5C-8E14-2B72C7E0FFF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF286BB-70A3-4F5C-8E14-2B72C7E0FFF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBF286BB-70A3-4F5C-8E14-2B72C7E0FFF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBF286BB-70A3-4F5C-8E14-2B72C7E0FFF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C89F788-9993-46CD-A259-F01BA1C9DACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C89F788-9993-46CD-A259-F01BA1C9DACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C89F788-9993-46CD-A259-F01BA1C9DACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C89F788-9993-46CD-A259-F01BA1C9DACA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A10B3429-4F23-4511-AA45-92B7ED11DA95}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Asoftware\C#\String_interpolation\Multidimentional_arrays\bin\Debug\net6.0\Multidimentional_arrays.exe
+C:\Asoftware\C#\String_interpolation\Multidimentional_arrays\bin\Debug\net6.0\Multidimentional_arrays.deps.json
+C:\Asoftware\C#\String_interpolation\Multidimentional_arrays\bin\Debug\net6.0\Multidimentional_arrays.runtimeconfig.json
+C:\Asoftware\C#\String_interpolation\Multidimentional_arrays\bin\Debug\net6.0\Multidimentional_arrays.dll
+C:\Asoftware\C#\String_interpolation\Multidimentional_arrays\bin\Debug\net6.0\Multidimentional_arrays.pdb
+C:\Asoftware\C#\String_interpolation\Multidimentional_arrays\obj\Debug\net6.0\Multidimentional_arrays.csproj.AssemblyReference.cache
+C:\Asoftware\C#\String_interpolation\Multidimentional_arrays\obj\Debug\net6.0\Multidimentional_arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asoftware\C#\String_interpolation\Multidimentional_arrays\obj\Debug\net6.0\Multidimentional_arrays.AssemblyInfoInputs.cache
+C:\Asoftware\C#\String_interpolation\Multidimentional_arrays\obj\Debug\net6.0\Multidimentional_arrays.AssemblyInfo.cs
+C:\Asoftware\C#\String_interpolation\Multidimentional_arrays\obj\Debug\net6.0\Multidimentional_arrays.csproj.CoreCompileInputs.cache
+C:\Asoftware\C#\String_interpolation\Multidimentional_arrays\obj\Debug\net6.0\Multidimentional_arrays.dll
+C:\Asoftware\C#\String_interpolation\Multidimentional_arrays\obj\Debug\net6.0\refint\Multidimentional_arrays.dll
+C:\Asoftware\C#\String_interpolation\Multidimentional_arrays\obj\Debug\net6.0\Multidimentional_arrays.pdb
+C:\Asoftware\C#\String_interpolation\Multidimentional_arrays\obj\Debug\net6.0\Multidimentional_arrays.genruntimeconfig.cache
+C:\Asoftware\C#\String_interpolation\Multidimentional_arrays\obj\Debug\net6.0\ref\Multidimentional_arrays.dll
