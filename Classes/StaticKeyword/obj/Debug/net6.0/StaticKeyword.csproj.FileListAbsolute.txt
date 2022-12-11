@@ -1,0 +1,15 @@
+C:\Asoftware\C#\Classes\StaticKeyword\bin\Debug\net6.0\StaticKeyword.exe
+C:\Asoftware\C#\Classes\StaticKeyword\bin\Debug\net6.0\StaticKeyword.deps.json
+C:\Asoftware\C#\Classes\StaticKeyword\bin\Debug\net6.0\StaticKeyword.runtimeconfig.json
+C:\Asoftware\C#\Classes\StaticKeyword\bin\Debug\net6.0\StaticKeyword.dll
+C:\Asoftware\C#\Classes\StaticKeyword\bin\Debug\net6.0\StaticKeyword.pdb
+C:\Asoftware\C#\Classes\StaticKeyword\obj\Debug\net6.0\StaticKeyword.csproj.AssemblyReference.cache
+C:\Asoftware\C#\Classes\StaticKeyword\obj\Debug\net6.0\StaticKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asoftware\C#\Classes\StaticKeyword\obj\Debug\net6.0\StaticKeyword.AssemblyInfoInputs.cache
+C:\Asoftware\C#\Classes\StaticKeyword\obj\Debug\net6.0\StaticKeyword.AssemblyInfo.cs
+C:\Asoftware\C#\Classes\StaticKeyword\obj\Debug\net6.0\StaticKeyword.csproj.CoreCompileInputs.cache
+C:\Asoftware\C#\Classes\StaticKeyword\obj\Debug\net6.0\StaticKeyword.dll
+C:\Asoftware\C#\Classes\StaticKeyword\obj\Debug\net6.0\refint\StaticKeyword.dll
+C:\Asoftware\C#\Classes\StaticKeyword\obj\Debug\net6.0\StaticKeyword.pdb
+C:\Asoftware\C#\Classes\StaticKeyword\obj\Debug\net6.0\StaticKeyword.genruntimeconfig.cache
+C:\Asoftware\C#\Classes\StaticKeyword\obj\Debug\net6.0\ref\StaticKeyword.dll

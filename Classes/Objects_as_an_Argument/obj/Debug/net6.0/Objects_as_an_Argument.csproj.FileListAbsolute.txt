@@ -1,0 +1,15 @@
+C:\Asoftware\C#\Classes\Objects_as_an_Argument\bin\Debug\net6.0\Objects_as_an_Argument.exe
+C:\Asoftware\C#\Classes\Objects_as_an_Argument\bin\Debug\net6.0\Objects_as_an_Argument.deps.json
+C:\Asoftware\C#\Classes\Objects_as_an_Argument\bin\Debug\net6.0\Objects_as_an_Argument.runtimeconfig.json
+C:\Asoftware\C#\Classes\Objects_as_an_Argument\bin\Debug\net6.0\Objects_as_an_Argument.dll
+C:\Asoftware\C#\Classes\Objects_as_an_Argument\bin\Debug\net6.0\Objects_as_an_Argument.pdb
+C:\Asoftware\C#\Classes\Objects_as_an_Argument\obj\Debug\net6.0\Objects_as_an_Argument.csproj.AssemblyReference.cache
+C:\Asoftware\C#\Classes\Objects_as_an_Argument\obj\Debug\net6.0\Objects_as_an_Argument.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asoftware\C#\Classes\Objects_as_an_Argument\obj\Debug\net6.0\Objects_as_an_Argument.AssemblyInfoInputs.cache
+C:\Asoftware\C#\Classes\Objects_as_an_Argument\obj\Debug\net6.0\Objects_as_an_Argument.AssemblyInfo.cs
+C:\Asoftware\C#\Classes\Objects_as_an_Argument\obj\Debug\net6.0\Objects_as_an_Argument.csproj.CoreCompileInputs.cache
+C:\Asoftware\C#\Classes\Objects_as_an_Argument\obj\Debug\net6.0\Objects_as_an_Argument.dll
+C:\Asoftware\C#\Classes\Objects_as_an_Argument\obj\Debug\net6.0\refint\Objects_as_an_Argument.dll
+C:\Asoftware\C#\Classes\Objects_as_an_Argument\obj\Debug\net6.0\Objects_as_an_Argument.pdb
+C:\Asoftware\C#\Classes\Objects_as_an_Argument\obj\Debug\net6.0\Objects_as_an_Argument.genruntimeconfig.cache
+C:\Asoftware\C#\Classes\Objects_as_an_Argument\obj\Debug\net6.0\ref\Objects_as_an_Argument.dll

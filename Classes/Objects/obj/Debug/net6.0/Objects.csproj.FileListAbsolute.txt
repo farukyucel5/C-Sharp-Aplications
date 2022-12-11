@@ -1,0 +1,15 @@
+C:\Asoftware\C#\Classes\Objects\bin\Debug\net6.0\Objects.exe
+C:\Asoftware\C#\Classes\Objects\bin\Debug\net6.0\Objects.deps.json
+C:\Asoftware\C#\Classes\Objects\bin\Debug\net6.0\Objects.runtimeconfig.json
+C:\Asoftware\C#\Classes\Objects\bin\Debug\net6.0\Objects.dll
+C:\Asoftware\C#\Classes\Objects\bin\Debug\net6.0\Objects.pdb
+C:\Asoftware\C#\Classes\Objects\obj\Debug\net6.0\Objects.csproj.AssemblyReference.cache
+C:\Asoftware\C#\Classes\Objects\obj\Debug\net6.0\Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asoftware\C#\Classes\Objects\obj\Debug\net6.0\Objects.AssemblyInfoInputs.cache
+C:\Asoftware\C#\Classes\Objects\obj\Debug\net6.0\Objects.AssemblyInfo.cs
+C:\Asoftware\C#\Classes\Objects\obj\Debug\net6.0\Objects.csproj.CoreCompileInputs.cache
+C:\Asoftware\C#\Classes\Objects\obj\Debug\net6.0\Objects.dll
+C:\Asoftware\C#\Classes\Objects\obj\Debug\net6.0\refint\Objects.dll
+C:\Asoftware\C#\Classes\Objects\obj\Debug\net6.0\Objects.pdb
+C:\Asoftware\C#\Classes\Objects\obj\Debug\net6.0\Objects.genruntimeconfig.cache
+C:\Asoftware\C#\Classes\Objects\obj\Debug\net6.0\ref\Objects.dll

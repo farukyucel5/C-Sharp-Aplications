@@ -1,0 +1,15 @@
+C:\Asoftware\C#\Classes\Array_of_objects\bin\Debug\net6.0\Array_of_objects.exe
+C:\Asoftware\C#\Classes\Array_of_objects\bin\Debug\net6.0\Array_of_objects.deps.json
+C:\Asoftware\C#\Classes\Array_of_objects\bin\Debug\net6.0\Array_of_objects.runtimeconfig.json
+C:\Asoftware\C#\Classes\Array_of_objects\bin\Debug\net6.0\Array_of_objects.dll
+C:\Asoftware\C#\Classes\Array_of_objects\bin\Debug\net6.0\Array_of_objects.pdb
+C:\Asoftware\C#\Classes\Array_of_objects\obj\Debug\net6.0\Array_of_objects.csproj.AssemblyReference.cache
+C:\Asoftware\C#\Classes\Array_of_objects\obj\Debug\net6.0\Array_of_objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asoftware\C#\Classes\Array_of_objects\obj\Debug\net6.0\Array_of_objects.AssemblyInfoInputs.cache
+C:\Asoftware\C#\Classes\Array_of_objects\obj\Debug\net6.0\Array_of_objects.AssemblyInfo.cs
+C:\Asoftware\C#\Classes\Array_of_objects\obj\Debug\net6.0\Array_of_objects.csproj.CoreCompileInputs.cache
+C:\Asoftware\C#\Classes\Array_of_objects\obj\Debug\net6.0\Array_of_objects.dll
+C:\Asoftware\C#\Classes\Array_of_objects\obj\Debug\net6.0\refint\Array_of_objects.dll
+C:\Asoftware\C#\Classes\Array_of_objects\obj\Debug\net6.0\Array_of_objects.pdb
+C:\Asoftware\C#\Classes\Array_of_objects\obj\Debug\net6.0\Array_of_objects.genruntimeconfig.cache
+C:\Asoftware\C#\Classes\Array_of_objects\obj\Debug\net6.0\ref\Array_of_objects.dll

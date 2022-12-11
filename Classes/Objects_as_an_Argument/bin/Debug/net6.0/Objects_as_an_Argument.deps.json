@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Objects_as_an_Argument/1.0.0": {
+        "runtime": {
+          "Objects_as_an_Argument.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Objects_as_an_Argument/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
