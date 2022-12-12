@@ -1,0 +1,15 @@
+C:\Asoftware\C#\Overriding\ToString\bin\Debug\net6.0\ToString.exe
+C:\Asoftware\C#\Overriding\ToString\bin\Debug\net6.0\ToString.deps.json
+C:\Asoftware\C#\Overriding\ToString\bin\Debug\net6.0\ToString.runtimeconfig.json
+C:\Asoftware\C#\Overriding\ToString\bin\Debug\net6.0\ToString.dll
+C:\Asoftware\C#\Overriding\ToString\bin\Debug\net6.0\ToString.pdb
+C:\Asoftware\C#\Overriding\ToString\obj\Debug\net6.0\ToString.csproj.AssemblyReference.cache
+C:\Asoftware\C#\Overriding\ToString\obj\Debug\net6.0\ToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asoftware\C#\Overriding\ToString\obj\Debug\net6.0\ToString.AssemblyInfoInputs.cache
+C:\Asoftware\C#\Overriding\ToString\obj\Debug\net6.0\ToString.AssemblyInfo.cs
+C:\Asoftware\C#\Overriding\ToString\obj\Debug\net6.0\ToString.csproj.CoreCompileInputs.cache
+C:\Asoftware\C#\Overriding\ToString\obj\Debug\net6.0\ToString.dll
+C:\Asoftware\C#\Overriding\ToString\obj\Debug\net6.0\refint\ToString.dll
+C:\Asoftware\C#\Overriding\ToString\obj\Debug\net6.0\ToString.pdb
+C:\Asoftware\C#\Overriding\ToString\obj\Debug\net6.0\ToString.genruntimeconfig.cache
+C:\Asoftware\C#\Overriding\ToString\obj\Debug\net6.0\ref\ToString.dll

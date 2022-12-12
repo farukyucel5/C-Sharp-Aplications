@@ -1,0 +1,15 @@
+C:\Asoftware\C#\Overriding\Polimorphism\bin\Debug\net6.0\Polimorphism.exe
+C:\Asoftware\C#\Overriding\Polimorphism\bin\Debug\net6.0\Polimorphism.deps.json
+C:\Asoftware\C#\Overriding\Polimorphism\bin\Debug\net6.0\Polimorphism.runtimeconfig.json
+C:\Asoftware\C#\Overriding\Polimorphism\bin\Debug\net6.0\Polimorphism.dll
+C:\Asoftware\C#\Overriding\Polimorphism\bin\Debug\net6.0\Polimorphism.pdb
+C:\Asoftware\C#\Overriding\Polimorphism\obj\Debug\net6.0\Polimorphism.csproj.AssemblyReference.cache
+C:\Asoftware\C#\Overriding\Polimorphism\obj\Debug\net6.0\Polimorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asoftware\C#\Overriding\Polimorphism\obj\Debug\net6.0\Polimorphism.AssemblyInfoInputs.cache
+C:\Asoftware\C#\Overriding\Polimorphism\obj\Debug\net6.0\Polimorphism.AssemblyInfo.cs
+C:\Asoftware\C#\Overriding\Polimorphism\obj\Debug\net6.0\Polimorphism.csproj.CoreCompileInputs.cache
+C:\Asoftware\C#\Overriding\Polimorphism\obj\Debug\net6.0\Polimorphism.dll
+C:\Asoftware\C#\Overriding\Polimorphism\obj\Debug\net6.0\refint\Polimorphism.dll
+C:\Asoftware\C#\Overriding\Polimorphism\obj\Debug\net6.0\Polimorphism.pdb
+C:\Asoftware\C#\Overriding\Polimorphism\obj\Debug\net6.0\Polimorphism.genruntimeconfig.cache
+C:\Asoftware\C#\Overriding\Polimorphism\obj\Debug\net6.0\ref\Polimorphism.dll
