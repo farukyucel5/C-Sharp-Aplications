@@ -1,0 +1,15 @@
+C:\Asoftware\C#\ListOfObject\ListOfObject\bin\Debug\net6.0\ListOfObject.exe
+C:\Asoftware\C#\ListOfObject\ListOfObject\bin\Debug\net6.0\ListOfObject.deps.json
+C:\Asoftware\C#\ListOfObject\ListOfObject\bin\Debug\net6.0\ListOfObject.runtimeconfig.json
+C:\Asoftware\C#\ListOfObject\ListOfObject\bin\Debug\net6.0\ListOfObject.dll
+C:\Asoftware\C#\ListOfObject\ListOfObject\bin\Debug\net6.0\ListOfObject.pdb
+C:\Asoftware\C#\ListOfObject\ListOfObject\obj\Debug\net6.0\ListOfObject.csproj.AssemblyReference.cache
+C:\Asoftware\C#\ListOfObject\ListOfObject\obj\Debug\net6.0\ListOfObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asoftware\C#\ListOfObject\ListOfObject\obj\Debug\net6.0\ListOfObject.AssemblyInfoInputs.cache
+C:\Asoftware\C#\ListOfObject\ListOfObject\obj\Debug\net6.0\ListOfObject.AssemblyInfo.cs
+C:\Asoftware\C#\ListOfObject\ListOfObject\obj\Debug\net6.0\ListOfObject.csproj.CoreCompileInputs.cache
+C:\Asoftware\C#\ListOfObject\ListOfObject\obj\Debug\net6.0\ListOfObject.dll
+C:\Asoftware\C#\ListOfObject\ListOfObject\obj\Debug\net6.0\refint\ListOfObject.dll
+C:\Asoftware\C#\ListOfObject\ListOfObject\obj\Debug\net6.0\ListOfObject.pdb
+C:\Asoftware\C#\ListOfObject\ListOfObject\obj\Debug\net6.0\ListOfObject.genruntimeconfig.cache
+C:\Asoftware\C#\ListOfObject\ListOfObject\obj\Debug\net6.0\ref\ListOfObject.dll

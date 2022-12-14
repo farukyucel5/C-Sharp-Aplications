@@ -1,0 +1,15 @@
+C:\Asoftware\C#\Lists\Exercise\bin\Debug\net6.0\Exercise.exe
+C:\Asoftware\C#\Lists\Exercise\bin\Debug\net6.0\Exercise.deps.json
+C:\Asoftware\C#\Lists\Exercise\bin\Debug\net6.0\Exercise.runtimeconfig.json
+C:\Asoftware\C#\Lists\Exercise\bin\Debug\net6.0\Exercise.dll
+C:\Asoftware\C#\Lists\Exercise\bin\Debug\net6.0\Exercise.pdb
+C:\Asoftware\C#\Lists\Exercise\obj\Debug\net6.0\Exercise.csproj.AssemblyReference.cache
+C:\Asoftware\C#\Lists\Exercise\obj\Debug\net6.0\Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asoftware\C#\Lists\Exercise\obj\Debug\net6.0\Exercise.AssemblyInfoInputs.cache
+C:\Asoftware\C#\Lists\Exercise\obj\Debug\net6.0\Exercise.AssemblyInfo.cs
+C:\Asoftware\C#\Lists\Exercise\obj\Debug\net6.0\Exercise.csproj.CoreCompileInputs.cache
+C:\Asoftware\C#\Lists\Exercise\obj\Debug\net6.0\Exercise.dll
+C:\Asoftware\C#\Lists\Exercise\obj\Debug\net6.0\refint\Exercise.dll
+C:\Asoftware\C#\Lists\Exercise\obj\Debug\net6.0\Exercise.pdb
+C:\Asoftware\C#\Lists\Exercise\obj\Debug\net6.0\Exercise.genruntimeconfig.cache
+C:\Asoftware\C#\Lists\Exercise\obj\Debug\net6.0\ref\Exercise.dll
