@@ -1,0 +1,15 @@
+C:\Asoftware\C#\Encapsulation2\Encapsulation2\bin\Debug\net6.0\Encapsulation2.exe
+C:\Asoftware\C#\Encapsulation2\Encapsulation2\bin\Debug\net6.0\Encapsulation2.deps.json
+C:\Asoftware\C#\Encapsulation2\Encapsulation2\bin\Debug\net6.0\Encapsulation2.runtimeconfig.json
+C:\Asoftware\C#\Encapsulation2\Encapsulation2\bin\Debug\net6.0\Encapsulation2.dll
+C:\Asoftware\C#\Encapsulation2\Encapsulation2\bin\Debug\net6.0\Encapsulation2.pdb
+C:\Asoftware\C#\Encapsulation2\Encapsulation2\obj\Debug\net6.0\Encapsulation2.csproj.AssemblyReference.cache
+C:\Asoftware\C#\Encapsulation2\Encapsulation2\obj\Debug\net6.0\Encapsulation2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asoftware\C#\Encapsulation2\Encapsulation2\obj\Debug\net6.0\Encapsulation2.AssemblyInfoInputs.cache
+C:\Asoftware\C#\Encapsulation2\Encapsulation2\obj\Debug\net6.0\Encapsulation2.AssemblyInfo.cs
+C:\Asoftware\C#\Encapsulation2\Encapsulation2\obj\Debug\net6.0\Encapsulation2.csproj.CoreCompileInputs.cache
+C:\Asoftware\C#\Encapsulation2\Encapsulation2\obj\Debug\net6.0\Encapsulation2.dll
+C:\Asoftware\C#\Encapsulation2\Encapsulation2\obj\Debug\net6.0\refint\Encapsulation2.dll
+C:\Asoftware\C#\Encapsulation2\Encapsulation2\obj\Debug\net6.0\Encapsulation2.pdb
+C:\Asoftware\C#\Encapsulation2\Encapsulation2\obj\Debug\net6.0\Encapsulation2.genruntimeconfig.cache
+C:\Asoftware\C#\Encapsulation2\Encapsulation2\obj\Debug\net6.0\ref\Encapsulation2.dll
