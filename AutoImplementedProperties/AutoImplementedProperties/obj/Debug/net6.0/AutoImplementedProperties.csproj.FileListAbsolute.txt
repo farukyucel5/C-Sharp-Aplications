@@ -1,0 +1,15 @@
+C:\Asoftware\C#\AutoImplementedProperties\AutoImplementedProperties\bin\Debug\net6.0\AutoImplementedProperties.exe
+C:\Asoftware\C#\AutoImplementedProperties\AutoImplementedProperties\bin\Debug\net6.0\AutoImplementedProperties.deps.json
+C:\Asoftware\C#\AutoImplementedProperties\AutoImplementedProperties\bin\Debug\net6.0\AutoImplementedProperties.runtimeconfig.json
+C:\Asoftware\C#\AutoImplementedProperties\AutoImplementedProperties\bin\Debug\net6.0\AutoImplementedProperties.dll
+C:\Asoftware\C#\AutoImplementedProperties\AutoImplementedProperties\bin\Debug\net6.0\AutoImplementedProperties.pdb
+C:\Asoftware\C#\AutoImplementedProperties\AutoImplementedProperties\obj\Debug\net6.0\AutoImplementedProperties.csproj.AssemblyReference.cache
+C:\Asoftware\C#\AutoImplementedProperties\AutoImplementedProperties\obj\Debug\net6.0\AutoImplementedProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asoftware\C#\AutoImplementedProperties\AutoImplementedProperties\obj\Debug\net6.0\AutoImplementedProperties.AssemblyInfoInputs.cache
+C:\Asoftware\C#\AutoImplementedProperties\AutoImplementedProperties\obj\Debug\net6.0\AutoImplementedProperties.AssemblyInfo.cs
+C:\Asoftware\C#\AutoImplementedProperties\AutoImplementedProperties\obj\Debug\net6.0\AutoImplementedProperties.csproj.CoreCompileInputs.cache
+C:\Asoftware\C#\AutoImplementedProperties\AutoImplementedProperties\obj\Debug\net6.0\AutoImplementedProperties.dll
+C:\Asoftware\C#\AutoImplementedProperties\AutoImplementedProperties\obj\Debug\net6.0\refint\AutoImplementedProperties.dll
+C:\Asoftware\C#\AutoImplementedProperties\AutoImplementedProperties\obj\Debug\net6.0\AutoImplementedProperties.pdb
+C:\Asoftware\C#\AutoImplementedProperties\AutoImplementedProperties\obj\Debug\net6.0\AutoImplementedProperties.genruntimeconfig.cache
+C:\Asoftware\C#\AutoImplementedProperties\AutoImplementedProperties\obj\Debug\net6.0\ref\AutoImplementedProperties.dll
