@@ -1,0 +1,15 @@
+C:\Asoftware\C#\ValueAndRefrenceTypes\VarKeywords_UserInputs\bin\Debug\net6.0\VarKeywords_UserInputs.exe
+C:\Asoftware\C#\ValueAndRefrenceTypes\VarKeywords_UserInputs\bin\Debug\net6.0\VarKeywords_UserInputs.deps.json
+C:\Asoftware\C#\ValueAndRefrenceTypes\VarKeywords_UserInputs\bin\Debug\net6.0\VarKeywords_UserInputs.runtimeconfig.json
+C:\Asoftware\C#\ValueAndRefrenceTypes\VarKeywords_UserInputs\bin\Debug\net6.0\VarKeywords_UserInputs.dll
+C:\Asoftware\C#\ValueAndRefrenceTypes\VarKeywords_UserInputs\bin\Debug\net6.0\VarKeywords_UserInputs.pdb
+C:\Asoftware\C#\ValueAndRefrenceTypes\VarKeywords_UserInputs\obj\Debug\net6.0\VarKeywords_UserInputs.csproj.AssemblyReference.cache
+C:\Asoftware\C#\ValueAndRefrenceTypes\VarKeywords_UserInputs\obj\Debug\net6.0\VarKeywords_UserInputs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asoftware\C#\ValueAndRefrenceTypes\VarKeywords_UserInputs\obj\Debug\net6.0\VarKeywords_UserInputs.AssemblyInfoInputs.cache
+C:\Asoftware\C#\ValueAndRefrenceTypes\VarKeywords_UserInputs\obj\Debug\net6.0\VarKeywords_UserInputs.AssemblyInfo.cs
+C:\Asoftware\C#\ValueAndRefrenceTypes\VarKeywords_UserInputs\obj\Debug\net6.0\VarKeywords_UserInputs.csproj.CoreCompileInputs.cache
+C:\Asoftware\C#\ValueAndRefrenceTypes\VarKeywords_UserInputs\obj\Debug\net6.0\VarKeywords_UserInputs.dll
+C:\Asoftware\C#\ValueAndRefrenceTypes\VarKeywords_UserInputs\obj\Debug\net6.0\refint\VarKeywords_UserInputs.dll
+C:\Asoftware\C#\ValueAndRefrenceTypes\VarKeywords_UserInputs\obj\Debug\net6.0\VarKeywords_UserInputs.pdb
+C:\Asoftware\C#\ValueAndRefrenceTypes\VarKeywords_UserInputs\obj\Debug\net6.0\VarKeywords_UserInputs.genruntimeconfig.cache
+C:\Asoftware\C#\ValueAndRefrenceTypes\VarKeywords_UserInputs\obj\Debug\net6.0\ref\VarKeywords_UserInputs.dll
